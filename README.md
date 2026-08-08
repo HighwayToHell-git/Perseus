@@ -1,3 +1,3 @@
-Perseus
----
-<h1 style="color: green;">hello</h1>
+<div style="color: red; font-size: 20px;">
+Красный текст
+</div>
